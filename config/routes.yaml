@@ -1,0 +1,9 @@
+# config/routes.yaml
+#controllers:
+#    resource: ../src/Controller/
+#    type: attribute
+
+#api_index:
+#    path: /api
+#    controller: App\Controller\
+#    methods: GET
